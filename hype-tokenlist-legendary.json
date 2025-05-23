@@ -1,0 +1,19 @@
+{
+  "name": "Hype Token List",
+  "timestamp": "2025-05-23T08:00:56.817374Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x475d8825f4d427223615e9ab288e190d463a1f9d",
+      "name": "Hype Coin",
+      "symbol": "HYPE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/legendary-crypto/token-list/main/logo.png"
+    }
+  ]
+}
